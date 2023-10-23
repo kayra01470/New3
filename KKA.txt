@@ -1,0 +1,17 @@
+Verilen dizi: [16, 21, 11, 8, 12, 22]
+
+Adım 1:
+Dizi bölünür:
+Sol yarı: [16, 21, 11]
+Sağ yarı: [8, 12, 22]
+
+Adım 2:
+Her iki yarı da sıralanır:
+Sol yarı: [11, 16, 21]
+Sağ yarı: [8, 12, 22]
+
+Adım 3:
+Sıralanmış yarılar birleştirilir:
+Birleştirilmiş dizi: [8, 11, 12, 16, 21, 22]
+
+ O(n log n)
